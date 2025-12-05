@@ -1,0 +1,5 @@
+packages:
+  - "@commons/ui"
+  - "frontend-*"  # frontend- 로 시작하는 모든 애들
+  
+  
